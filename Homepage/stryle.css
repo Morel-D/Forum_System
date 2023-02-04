@@ -1,0 +1,60 @@
+#brandLogo {
+    height: auto;
+    width: 30px;
+    margin-left: 40px;
+}
+
+#serachInput{
+    width: 700px;
+  }
+
+#imgProfile {
+    height: auto;
+    width: 40px;
+}  
+
+#postId {
+    height: auto;
+    width: 40px;
+}
+
+
+#postImg {
+    height: auto;
+    width: 200px;
+}
+
+
+#circle {
+    height: auto;
+    width: 55px;
+}
+
+#circle1 {
+    height: auto;
+    width: 30px;
+}
+
+#images {
+    display: none;
+}
+
+#emptyImg {
+    height: auto;
+    width: 350px;
+}
+
+@media only screen and (max-width: 600px) {
+    #brandLogo {
+        height: auto;
+        width: 20px;
+        margin-left: 0px;
+    }
+
+    #serachInput{
+        width: 200px;
+      }
+
+  }
+
+
